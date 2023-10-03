@@ -1,7 +1,4 @@
-// CMSY 166 Arena of Doom
-// Copyright 2021 Howard Community College
-// Abdulai Bah
-// @version 3
+
 public class Katana extends Weapon {
 	public Katana() {
 		super(7.0,8);

@@ -1,7 +1,4 @@
-// CMSY 166 Arena of Doom
-// Copyright 2021 Howard Community College
-// Abdulai Bah
-// @version 3
+
 public class Giant extends Monster {
 	
 	Giant(int hp, int dmgdealt, double treasure){

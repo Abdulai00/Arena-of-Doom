@@ -1,14 +1,7 @@
 
-// CMSY 166 Arena of Doom
-// Copyright 2021 Howard Community College
-// Abdulai Bah
-// @version 3
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-// I used eclispe to build a path to make use of the glaidator class and all it's sub classes
-// the same with goblin class you have them as i turned it in in previous work
-
 public class Arena2 {
 
 	public static void main(String[] args) {

@@ -1,7 +1,4 @@
-// CMSY 166 Arena of Doom
-// Copyright 2021 Howard Community College
-// Abdulai Bah
-// @version 3
+
 public interface Combatant {
 	/**
 	 * purpose - This combatant object attacks a target combatant object,
